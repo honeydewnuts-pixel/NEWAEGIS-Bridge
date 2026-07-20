@@ -1,0 +1,3 @@
+# settings.gradle
+rootProject.name = "AEGIS-Bridge"
+include ':app'
